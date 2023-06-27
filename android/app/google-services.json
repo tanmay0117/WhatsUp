@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "939673729994",
+    "project_id": "whatsup-90465",
+    "storage_bucket": "whatsup-90465.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939673729994:android:e7a90544a518d6ec8b6d33",
+        "android_client_info": {
+          "package_name": "com.whatsup.tanmay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939673729994-dvpd1dmn7kr925cie0tb1nl1m42os5mc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.whatsup.tanmay",
+            "certificate_hash": "55443f95168dc12a03047b0febe9e0632d90289d"
+          }
+        },
+        {
+          "client_id": "939673729994-rn5v6kmhhisf4d9gepe4khsv1sj931dd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdi6mj6n-ewpKuWGUD_bPdclGu1vH3Vwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939673729994-rn5v6kmhhisf4d9gepe4khsv1sj931dd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
